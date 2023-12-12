@@ -1,4 +1,4 @@
-# BabySwim.By-beta-
+# BabySwim.By-beta
 Кастомный сайт для школы плавания BabySwim.By на PHP.
 
 Стек разработки:
